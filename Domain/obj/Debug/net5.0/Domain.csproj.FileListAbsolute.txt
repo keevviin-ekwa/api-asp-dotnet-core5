@@ -1,0 +1,12 @@
+/home/kevin/Bureau/Dev/activities-dotnet-react/Domain/bin/Debug/net5.0/Domain.deps.json
+/home/kevin/Bureau/Dev/activities-dotnet-react/Domain/bin/Debug/net5.0/Domain.dll
+/home/kevin/Bureau/Dev/activities-dotnet-react/Domain/bin/Debug/net5.0/ref/Domain.dll
+/home/kevin/Bureau/Dev/activities-dotnet-react/Domain/bin/Debug/net5.0/Domain.pdb
+/home/kevin/Bureau/Dev/activities-dotnet-react/Domain/obj/Debug/net5.0/Domain.csproj.AssemblyReference.cache
+/home/kevin/Bureau/Dev/activities-dotnet-react/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/kevin/Bureau/Dev/activities-dotnet-react/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/home/kevin/Bureau/Dev/activities-dotnet-react/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/home/kevin/Bureau/Dev/activities-dotnet-react/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/home/kevin/Bureau/Dev/activities-dotnet-react/Domain/obj/Debug/net5.0/Domain.dll
+/home/kevin/Bureau/Dev/activities-dotnet-react/Domain/obj/Debug/net5.0/ref/Domain.dll
+/home/kevin/Bureau/Dev/activities-dotnet-react/Domain/obj/Debug/net5.0/Domain.pdb
